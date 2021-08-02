@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+}
+
+button, li{
+    cursor: pointer;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.todo-filter {
+    background-color: lightcyan;
+    padding: 10px;
+}
+
+.todo-stat {
+    background-color: lightcyan;
+    padding: 10px;
+    margin: 10px;
+}
+.todo-stat span {
+    font-weight: bold;
+}
+
